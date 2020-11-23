@@ -1,4 +1,4 @@
-# 02inclass-NumberWizard-Console-sber
+# 05inclass-NumberWizard-Console-sber
 
 ### Project description: 
 Introduction/Project summary 
